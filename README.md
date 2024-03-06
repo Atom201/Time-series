@@ -1,6 +1,6 @@
 # time-series
 
-DISCUSSING
+
 The aim of the project was to conduct a time series analysis and select the optimal model to predict future values. For the analysis, we considered various methods, including differentiation, Box-Cox transformation, regression-based decomposition, classical decomposition, and Holt smoothing.
 First, we analyzed the components of the time series to understand its structure and possible trends. We then tested different modeling methods to choose the one that best fit the analyzed series. These methods included various data transformation techniques and decomposition techniques that allow the series to be separated into its components: trend, seasonality and random component.
 DATA
